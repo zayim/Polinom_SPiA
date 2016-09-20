@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1354076780 source:c:\users\zayim\desktop\nadin zajimovic - projekat 1\projekat 1\polinom.cpp
+	<cstdlib>
+	"Polinom.h"
+
+1355007969 "
+
+1354077068 c:\users\zayim\desktop\nadin zajimovic - projekat 1\projekat 1\polinom.h
+	<iostream>
+
+1354082621 
+
+1354077016 source:c:\users\zayim\desktop\nadin zajimovic - projekat 1\projekat 1\main.cpp
+	<iostream>
+	<cstdlib>
+	"Polinom.h"
+
+1354077016 source:c:\users\zayim\desktop\nadin zajimovic - projekat 1\izvorni kod\main.cpp
+	<iostream>
+	<cstdlib>
+	"Polinom.h"
+
+1354082621 c:\users\zayim\desktop\nadin zajimovic - projekat 1\izvorni kod\polinom.h
+	<iostream>
+
+1354077056 source:c:\users\zayim\desktop\nadin zajimovic - projekat 1\izvorni kod\polinom.cpp
+	"Polinom.h"
+
+1354077016 source:c:\users\zayim\desktop\nadin zajimovic - projekat 1 - codeblocks\izvorni kod\main.cpp
+	<iostream>
+	<cstdlib>
+	"Polinom.h"
+
+1354082621 c:\users\zayim\desktop\nadin zajimovic - projekat 1 - codeblocks\izvorni kod\polinom.h
+	<iostream>
+
+1354082616 source:c:\users\zayim\desktop\nadin zajimovic - projekat 1 - codeblocks\izvorni kod\polinom.cpp
+	"Polinom.h"
+
+1358000327 source:d:\documents\fakultet\strukture podataka i algoritmi\nadin zajimovic - projekat 1 - codeblocks\izvorni kod\main.cpp
+	<iostream>
+	<cstdlib>
+	"Polinom.h"
+
+1354082621 d:\documents\fakultet\strukture podataka i algoritmi\nadin zajimovic - projekat 1 - codeblocks\izvorni kod\polinom.h
+	<iostream>
+
+1355007969 source:d:\documents\fakultet\strukture podataka i algoritmi\nadin zajimovic - projekat 1 - codeblocks\izvorni kod\polinom.cpp
+	"Polinom.h"
+
+1371809830 source:/home/nzajimovic/Desktop/github/SPiA/Nadin Zajimovic - Projekat 1 - CodeBlocks/Izvorni kod/Polinom.cpp
+	"Polinom.h"
+
+1371809830 /home/nzajimovic/Desktop/github/SPiA/Nadin Zajimovic - Projekat 1 - CodeBlocks/Izvorni kod/Polinom.h
+	<iostream>
+
